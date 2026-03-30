@@ -1,0 +1,9 @@
+google-adk
+google-cloud-logging
+google-auth
+python-dotenv
+langchain-community
+wikipedia
+requests
+fandom-py
+google-api-python-client
